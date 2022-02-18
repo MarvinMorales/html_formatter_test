@@ -1,0 +1,25 @@
+<!-- radio_listening_devices -->
+<div id="id_radio_listening_devices" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseRadioListeningDevices" aria-expanded="false" aria-controls="collapseRadioListeningDevices"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.radio_listening_devices.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseRadioListeningDevices">
+        <div class="form-group">
+            <select id="id_radio_listening_devices_options" name="radio_listening_devices-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">App</option>
+<option value="2">Online (Using your internet browser)</option>
+<option value="3">Smart speaker</option>
+<option value="4">Traditional radio</option>
+<option value="996">Other</option>

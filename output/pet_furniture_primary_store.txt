@@ -1,0 +1,41 @@
+<!-- pet_furniture_primary_store -->
+<div id="id_pet_furniture_primary_store" class="connekt_question_element" data-question-type="single_punch"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapsePetFurniturePrimaryStore" aria-expanded="false"
+        aria-controls="collapsePetFurniturePrimaryStore"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.pet_furniture_primary_store.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapsePetFurniturePrimaryStore">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <input type="checkbox" id="id_pet_furniture_primary_store_1" value="1">
+    <label for="id_pet_furniture_primary_store_1">Online</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_pet_furniture_primary_store_2" value="2">
+    <label for="id_pet_furniture_primary_store_2">Pet specialty stores</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_pet_furniture_primary_store_3" value="3">
+    <label for="id_pet_furniture_primary_store_3">Pharmacies</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_pet_furniture_primary_store_4" value="4">
+    <label for="id_pet_furniture_primary_store_4">Supermarkets</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_pet_furniture_primary_store_996" value="996">
+    <label for="id_pet_furniture_primary_store_996">Other</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_pet_furniture_primary_store_998" value="998">
+    <label for="id_pet_furniture_primary_store_998">Not applicable</label>
+</div>

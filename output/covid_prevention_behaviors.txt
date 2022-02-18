@@ -1,0 +1,29 @@
+<!-- covid_prevention_behaviors -->
+<div id="id_covid_prevention_behaviors" class="connekt_question_element" data-question-type="single_punch"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseCovidPreventionBehaviors" aria-expanded="false"
+        aria-controls="collapseCovidPreventionBehaviors"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.covid_prevention_behaviors.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapseCovidPreventionBehaviors">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <input type="checkbox" id="id_covid_prevention_behaviors_1" value="1">
+    <label for="id_covid_prevention_behaviors_1">I have decreased prevention behaviors since getting a vaccine</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_prevention_behaviors_2" value="2">
+    <label for="id_covid_prevention_behaviors_2">I have not changed my behavior since getting a vaccine</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_prevention_behaviors_3" value="3">
+    <label for="id_covid_prevention_behaviors_3">I have increased prevention behaviors since getting a vaccine</label>
+</div>

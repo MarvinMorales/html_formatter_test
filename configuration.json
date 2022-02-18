@@ -1,0 +1,201 @@
+[{
+        "column_name": "ethnicity_mp",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "lang_home_asian",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "auto_model",
+        "question_type": "single_punch",
+        "sort_alphabetically": "True"
+    },
+    {
+        "column_name": "eyewear_type",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "eyewear_usage",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "eyewear_importance_brand",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "eyewear_importance_style",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "eyewear_importance_quality",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "eyewear_importance_price",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "eyewear_purchased_brand",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "have_pets",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pets_number_of",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_type",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "True"
+    },
+    {
+        "column_name": "pet_food_purchase_frequency",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_food_primary_store",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_treats_primary_store",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_cleaning_primary_store",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_furniture_primary_store",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_accs_primary_store",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_medical_primary_store",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_tech_primary_store",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "pet_food_purchased_brands",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "True"
+    },
+    {
+        "column_name": "pet_tech_gadgets_own",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "covid_vaccinated",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "covid_all_doses",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "covid_vaccine_willingness",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "covid_reasons_against_vacc",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "True"
+    },
+    {
+        "column_name": "covid_no_need_vaccine",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "covid_prevention_behaviors",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "covid_impact_concerns",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "covid_employment_effects",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "radio_listener",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "radio_listening_devices",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "radio_listening_purpose",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "radio_influence",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "radio_influenced_behavior",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "radio_other_activities",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    },
+    {
+        "column_name": "attorney_used",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "True"
+    },
+    {
+        "column_name": "diet_type",
+        "question_type": "multi_punch",
+        "sort_alphabetically": "True"
+    },
+    {
+        "column_name": "connected_fitness_owner",
+        "question_type": "single_punch",
+        "sort_alphabetically": "False"
+    }
+]

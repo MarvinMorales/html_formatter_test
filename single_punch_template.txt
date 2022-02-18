@@ -1,0 +1,4 @@
+<div class="form-group">
+    <input type="checkbox" id="id_|option_name|" value="|value|">
+    <label for="id_|option_name|">|inner_html|</label>
+</div>

@@ -1,0 +1,34 @@
+<!-- diet_type -->
+<div id="id_diet_type" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseDietType" aria-expanded="false" aria-controls="collapseDietType"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.diet_type.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseDietType">
+        <div class="form-group">
+            <select id="id_diet_type_options" name="diet_type-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">High-protein</option>
+<option value="998">I am not on a diet or haven’t been on a diet in the past 6 months</option>
+<option value="2">Intermittent fasting</option>
+<option value="3">Keto</option>
+<option value="4">Low carb</option>
+<option value="5">Mediterranean</option>
+<option value="6">No sugar</option>
+<option value="996">Other</option>
+<option value="7">Paleo</option>
+<option value="8">Raw</option>
+<option value="9">Vegan</option>
+<option value="10">Vegetarian</option>
+<option value="11">Weight Watchers</option>
+<option value="12">Whole30</option>

@@ -1,0 +1,31 @@
+<!-- covid_reasons_against_vacc -->
+<div id="id_covid_reasons_against_vacc" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseCovidReasonsAgainstVacc" aria-expanded="false" aria-controls="collapseCovidReasonsAgainstVacc"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.covid_reasons_against_vacc.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseCovidReasonsAgainstVacc">
+        <div class="form-group">
+            <select id="id_covid_reasons_against_vacc_options" name="covid_reasons_against_vacc-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">I am concerned about possible side effects of a COVID-19 vaccine</option>
+<option value="8">I am concerned about the cost of a COVID-19 vaccine</option>
+<option value="3">I don’t believe I need a COVID-19 vaccine</option>
+<option value="2">I don’t know if a COVID-19 vaccine will work</option>
+<option value="4">I don’t like vaccines</option>
+<option value="9">I don’t trust COVID-19 vaccines</option>
+<option value="10">I don’t trust the government</option>
+<option value="6">I plan to wait and see if it is safe and may get it later</option>
+<option value="7">I think other people need it more than I do right now</option>
+<option value="5">My doctor has not recommended it</option>
+<option value="996">Other</option>

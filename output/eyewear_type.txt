@@ -1,0 +1,26 @@
+<!-- eyewear_type -->
+<div id="id_eyewear_type" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseEyewearType" aria-expanded="false" aria-controls="collapseEyewearType"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.eyewear_type.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseEyewearType">
+        <div class="form-group">
+            <select id="id_eyewear_type_options" name="eyewear_type-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">Prescription glasses</option>
+<option value="2">Non-prescription glasses</option>
+<option value="3">Prescription sunglasses</option>
+<option value="4">Non-Prescription sunglasses</option>
+<option value="5">Contacts</option>
+<option value="998">I don’t use any eyewear</option>

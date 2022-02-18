@@ -1,0 +1,37 @@
+<!-- lang_home_asian -->
+<div id="id_lang_home_asian" class="connekt_question_element" data-question-type="single_punch"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseLangHomeAsian" aria-expanded="false"
+        aria-controls="collapseLangHomeAsian"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.lang_home_asian.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapseLangHomeAsian">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <input type="checkbox" id="id_lang_home_asian_1" value="1">
+    <label for="id_lang_home_asian_1">Other language only</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_lang_home_asian_2" value="2">
+    <label for="id_lang_home_asian_2">Other language mostly</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_lang_home_asian_3" value="3">
+    <label for="id_lang_home_asian_3">Other language and English equally</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_lang_home_asian_4" value="4">
+    <label for="id_lang_home_asian_4">English mostly</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_lang_home_asian_5" value="5">
+    <label for="id_lang_home_asian_5">English only</label>
+</div>

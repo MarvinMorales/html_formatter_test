@@ -1,0 +1,26 @@
+<!-- covid_no_need_vaccine -->
+<div id="id_covid_no_need_vaccine" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseCovidNoNeedVaccine" aria-expanded="false" aria-controls="collapseCovidNoNeedVaccine"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.covid_no_need_vaccine.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseCovidNoNeedVaccine">
+        <div class="form-group">
+            <select id="id_covid_no_need_vaccine_options" name="covid_no_need_vaccine-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">I already had COVID-19</option>
+<option value="2">I am not a member of a high-risk group</option>
+<option value="3">I plan to use masks or other precautions instead</option>
+<option value="4">I don’t believe COVID-19 is a serious illness</option>
+<option value="5">I don’t think vaccines are beneficial</option>
+<option value="996">Other</option>

@@ -1,0 +1,16 @@
+<!-- |column_name| -->
+<div id="id_|column_name|" class="connekt_question_element" data-question-type="|question_type|"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapse|column_name_cammelCase|" aria-expanded="false"
+        aria-controls="collapse|column_name_cammelCase|"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.|column_name|.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapse|column_name_cammelCase|">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>

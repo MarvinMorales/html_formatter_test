@@ -1,0 +1,25 @@
+<!-- covid_employment_effects -->
+<div id="id_covid_employment_effects" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseCovidEmploymentEffects" aria-expanded="false" aria-controls="collapseCovidEmploymentEffects"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.covid_employment_effects.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseCovidEmploymentEffects">
+        <div class="form-group">
+            <select id="id_covid_employment_effects_options" name="covid_employment_effects-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">Lost my job or was furloughed</option>
+<option value="2">Work salary and/or hours have been reduced</option>
+<option value="3">Someone else in my household lost their job/was furloughed/salary reduced</option>
+<option value="4">Work salary and/or hours have increased</option>
+<option value="998">None of these</option>

@@ -1,0 +1,31 @@
+<!-- pet_food_purchased_brands -->
+<div id="id_pet_food_purchased_brands" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapsePetFoodPurchasedBrands" aria-expanded="false" aria-controls="collapsePetFoodPurchasedBrands"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.pet_food_purchased_brands.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapsePetFoodPurchasedBrands">
+        <div class="form-group">
+            <select id="id_pet_food_purchased_brands_options" name="pet_food_purchased_brands-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">Diamond Pet Foods</option>
+<option value="2">General Mills (i.e. Blue Buffalo)</option>
+<option value="3">Hill’s Pet Nutrition</option>
+<option value="4">J. M. Smucker (i.e. 9Lives, Canine Carry Outs, Gravy Train, Kibbles ‘n Bits, Meow Mix, Milk Bone, Milo’s Kitchen)</option>
+<option value="5">Mars Petcare Inc (i.e. IAMS, Pedigree, Royal Canin, Sheba, Cesar, Whiskas, Greenies, Nutro)</option>
+<option value="6">Merrick Pet Care</option>
+<option value="7">Nestle Purina Petcare (i.e. Purina ONE, Alpo, Felix, Pro Plan, Cat Chow, Fancy Feast, Friskies, Dog Chow, Beneful)</option>
+<option value="996">Other</option>
+<option value="8">Simmons Pet Food</option>
+<option value="9">Spectrum Brands/United Pet Group (i.e. Good ‘n’ Fun, DreamBone, SmartBones, Dingo, Ecotrition, Birdola, Wild Harvest)</option>
+<option value="10">WellPet</option>

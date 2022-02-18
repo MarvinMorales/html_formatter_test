@@ -1,0 +1,37 @@
+<!-- covid_vaccine_willingness -->
+<div id="id_covid_vaccine_willingness" class="connekt_question_element" data-question-type="single_punch"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseCovidVaccineWillingness" aria-expanded="false"
+        aria-controls="collapseCovidVaccineWillingness"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.covid_vaccine_willingness.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapseCovidVaccineWillingness">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <input type="checkbox" id="id_covid_vaccine_willingness_1" value="1">
+    <label for="id_covid_vaccine_willingness_1">Definitely get a vaccine</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_vaccine_willingness_2" value="2">
+    <label for="id_covid_vaccine_willingness_2">Probably get a vaccine</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_vaccine_willingness_3" value="3">
+    <label for="id_covid_vaccine_willingness_3">Be unsure about getting a vaccine</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_vaccine_willingness_4" value="4">
+    <label for="id_covid_vaccine_willingness_4">Probably NOT get a vaccine</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_vaccine_willingness_5" value="5">
+    <label for="id_covid_vaccine_willingness_5">Definitely NOT get a vaccine</label>
+</div>

@@ -1,0 +1,27 @@
+<!-- radio_listening_purpose -->
+<div id="id_radio_listening_purpose" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseRadioListeningPurpose" aria-expanded="false" aria-controls="collapseRadioListeningPurpose"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.radio_listening_purpose.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseRadioListeningPurpose">
+        <div class="form-group">
+            <select id="id_radio_listening_purpose_options" name="radio_listening_purpose-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">Stay up-to date on current events/news</option>
+<option value="2">Weather updates</option>
+<option value="3">Discover new music</option>
+<option value="4">For companionship</option>
+<option value="5">To enhance my mood</option>
+<option value="6">Stay connected with my community</option>
+<option value="996">Other</option>

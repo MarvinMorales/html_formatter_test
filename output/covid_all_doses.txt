@@ -1,0 +1,25 @@
+<!-- covid_all_doses -->
+<div id="id_covid_all_doses" class="connekt_question_element" data-question-type="single_punch"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseCovidAllDoses" aria-expanded="false"
+        aria-controls="collapseCovidAllDoses"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.covid_all_doses.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapseCovidAllDoses">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <input type="checkbox" id="id_covid_all_doses_1" value="1">
+    <label for="id_covid_all_doses_1">Yes</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_all_doses_2" value="2">
+    <label for="id_covid_all_doses_2">No</label>
+</div>

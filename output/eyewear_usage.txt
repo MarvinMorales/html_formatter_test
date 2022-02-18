@@ -1,0 +1,33 @@
+<!-- eyewear_usage -->
+<div id="id_eyewear_usage" class="connekt_question_element" data-question-type="single_punch"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseEyewearUsage" aria-expanded="false"
+        aria-controls="collapseEyewearUsage"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.eyewear_usage.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapseEyewearUsage">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <input type="checkbox" id="id_eyewear_usage_1" value="1">
+    <label for="id_eyewear_usage_1">Functionality</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_eyewear_usage_2" value="2">
+    <label for="id_eyewear_usage_2">Accessory</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_eyewear_usage_3" value="3">
+    <label for="id_eyewear_usage_3">Both</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_eyewear_usage_996" value="996">
+    <label for="id_eyewear_usage_996">Other</label>
+</div>

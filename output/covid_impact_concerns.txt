@@ -1,0 +1,57 @@
+<!-- covid_impact_concerns -->
+<div id="id_covid_impact_concerns" class="connekt_question_element" data-question-type="single_punch"
+    data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+    <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseCovidImpactConcerns" aria-expanded="false"
+        aria-controls="collapseCovidImpactConcerns"><i class="fal fa-info-circle" data-toggle="tooltip"
+        data-placement="top" title="{{columns_dict.covid_impact_concerns.question}}"></i><span
+        class="attributeName">***** Menu name here *****</span></button>
+    <div class="collapse" id="collapseCovidImpactConcerns">
+
+        <!-- form group options here -->
+
+    </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_1" value="1">
+    <label for="id_covid_impact_concerns_1">1-Not concerned at all</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_2" value="2">
+    <label for="id_covid_impact_concerns_2">2</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_3" value="3">
+    <label for="id_covid_impact_concerns_3">3</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_4" value="4">
+    <label for="id_covid_impact_concerns_4">4</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_5" value="5">
+    <label for="id_covid_impact_concerns_5">5</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_6" value="6">
+    <label for="id_covid_impact_concerns_6">6</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_7" value="7">
+    <label for="id_covid_impact_concerns_7">7</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_8" value="8">
+    <label for="id_covid_impact_concerns_8">8</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_9" value="9">
+    <label for="id_covid_impact_concerns_9">9</label>
+</div>
+<div class="form-group">
+    <input type="checkbox" id="id_covid_impact_concerns_10" value="10">
+    <label for="id_covid_impact_concerns_10">10-Extremely concerned</label>
+</div>

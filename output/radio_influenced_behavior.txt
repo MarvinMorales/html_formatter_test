@@ -1,0 +1,25 @@
+<!-- radio_influenced_behavior -->
+<div id="id_radio_influenced_behavior" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapseRadioInfluencedBehavior" aria-expanded="false" aria-controls="collapseRadioInfluencedBehavior"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.radio_influenced_behavior.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapseRadioInfluencedBehavior">
+        <div class="form-group">
+            <select id="id_radio_influenced_behavior_options" name="radio_influenced_behavior-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">Go to the website</option>
+<option value="2">Considering buying/trying the product mentioned</option>
+<option value="3">Search for information on the internet</option>
+<option value="996">Other</option>
+<option value="998">None of the above</option>

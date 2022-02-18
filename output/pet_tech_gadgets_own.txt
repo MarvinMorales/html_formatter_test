@@ -1,0 +1,27 @@
+<!-- pet_tech_gadgets_own -->
+<div id="id_pet_tech_gadgets_own" class="connekt_question_element" data-question-type="multi_punch"
+data-filter-text="***** Menu name here *****">
+    <div class="menu-item__filter">
+        <button class="menu-item__collapse collapsed" type="button" data-toggle="collapse"
+        data-target="#collapsePetTechGadgetsOwn" aria-expanded="false" aria-controls="collapsePetTechGadgetsOwn"><i
+            class="fal fa-info-circle" data-toggle="tooltip" data-placement="top"
+            title="{{columns_dict.pet_tech_gadgets_own.question}}"></i><span class="attributeName">***** Menu name here *****</span></button>
+        <div class="collapse" id="collapsePetTechGadgetsOwn">
+        <div class="form-group">
+            <select id="id_pet_tech_gadgets_own_options" name="pet_tech_gadgets_own-options"
+            class="form-multiselect full-width" multiple data-placeholder="Select Options">
+            <option></option>
+            <!-- options here -->
+            </select>
+        </div>
+        </div>
+    </div>
+</div>
+
+<option value="1">Interactive toys (Ball thrower, etc.)</option>
+<option value="2">Interactive video cam</option>
+<option value="3">Location tracking accessories</option>
+<option value="4">Self-cleaning litter tray</option>
+<option value="5">Smart feeding machines</option>
+<option value="996">Other pet tech products</option>
+<option value="998">None of the above</option>
